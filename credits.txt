@@ -1,0 +1,4 @@
+launch sound http://www.grsites.com/archive/sounds/category/11/?offset=12
+ambient http://www.looperman.com/loops/detail/98350/the-future-is-here-by-trillswaggod-free-80bpm-ambient-pad-loop
+explosion http://soundbible.com/1986-Bomb-Exploding.html
+ship text http://pics-about-space.com/space-ship-texture?p=1#img524833005746430863
